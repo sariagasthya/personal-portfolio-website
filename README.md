@@ -32,8 +32,5 @@ This website is my digital presence, built from scratch to reflect my skills, pr
 
 ---
 
-## 🚀 Live Demo  
-👉 **[Visit My Portfolio](https://sariagasthya.github.io/personal-portfolio-website)**  
 
----
 
